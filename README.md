@@ -39,7 +39,7 @@ This Portfolio is under working so please waite for completion moving projects f
 **PROJECT 2** 
 <p align="center">
   <img src="https://github.com/Sharequesid/Sharequesid/blob/main/appimages/Logopit_1667822096462.jpg?raw=true" width="350" title="Eatdeli">
-  <img src="https://github.com/Sharequesid/Sharequesid/blob/main/appimages/Logopit_1667822096462.jpg?raw=true" width="350" alt="accessibility text">
+  <img src="https://github.com/Sharequesid/Sharequesid/blob/main/appimages/Logopit_1667822313376.jpg?raw=true" width="350" alt="accessibility text">
 </p>
 
 <br>
