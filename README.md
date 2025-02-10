@@ -24,6 +24,7 @@ This Portfolio is under working so please waite for completion moving projects f
 |S.No.|Project Name|Technologies Used | Live App | Link |
 |--------|----|----|----| ---- |
 | 1 | Learning Android App |Kotlin, Xml, Retrofit, SharedPreferences, Fragments, Navigation Graph   | Available on Play store | [link](https://play.google.com/store/apps/details?id=ajwa.learning.app) |
+| 2 | EatDeli App |Kotlin, Xml, Retrofit, SharedPreferences, Fragments, Navigation Graph, Push Notifications, Glide   | Available on Play store | [link](https://play.google.com/store/search?q=eatdeli&c=apps&hl=en) |
 
 <br>
 
@@ -31,8 +32,14 @@ This Portfolio is under working so please waite for completion moving projects f
 
 **PROJECT 1** 
 <p align="center">
-  <img src="https://github.com/Sharequesid/Sharequesid/blob/main/appimages/learning_one.png?raw=true" width="350" title="hover text">
+  <img src="https://github.com/Sharequesid/Sharequesid/blob/main/appimages/learning_one.png?raw=true" width="350" title="Learning">
   <img src="https://github.com/Sharequesid/Sharequesid/blob/main/appimages/learning_two.png?raw=true" width="350" alt="accessibility text">
+</p>
+
+**PROJECT 2** 
+<p align="center">
+  <img src="https://github.com/Sharequesid/Sharequesid/blob/main/appimages/Logopit_1667822096462.jpg?raw=true" width="350" title="Eatdeli">
+  <img src="https://github.com/Sharequesid/Sharequesid/blob/main/appimages/Logopit_1667822096462.jpg?raw=true" width="350" alt="accessibility text">
 </p>
 
 <br>
