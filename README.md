@@ -27,9 +27,10 @@ This Portfolio is under working so please waite for completion moving projects f
 
 <br>
 
-### 👩‍💻 PROJECTS SCREENS
+## 👩‍💻 PROJECTS SCREENS
 
+### 👩‍💻 PROJECTS Number 1 
 <p align="center">
-  <img src="https://github.com/Sharequesid/Sharequesid/blob/main/appimages/learning_one.png" width="350" title="hover text">
-  <img src="https://github.com/Sharequesid/Sharequesid/blob/main/appimages/learning_two.png" width="350" alt="accessibility text">
+  <img src="https://github.com/Sharequesid/Sharequesid/blob/main/appimages/learning_one.png?raw=true" width="350" title="hover text">
+  <img src="https://github.com/Sharequesid/Sharequesid/blob/main/appimages/learning_two.png?raw=true" width="350" alt="accessibility text">
 </p>
