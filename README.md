@@ -43,8 +43,8 @@ This Portfolio is under working so please waite for completion moving projects f
   <img src="https://github.com/Sharequesid/Sharequesid/blob/main/appimages/learning_two.png?raw=true" width="350" alt="accessibility text">
 </p>
 
-**PROJECT 3** 
-![alt text]([http://url/to/img.png](https://github.com/Sharequesid/Sharequesid/blob/main/appimages/dailyfresh_image2.png))
+**PROJECT 3** <br>
+![Alt text](https://github.com/Sharequesid/Sharequesid/blob/main/appimages/dailyfresh_image2.png?raw=true "Title")
 
 <br>
 
