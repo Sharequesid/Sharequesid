@@ -16,3 +16,13 @@ This Portfolio is under working so please waite for completion moving projects f
 - 😄 Pronouns: ... Shareque
 - ⚡ Fun fact: ... Working ....
 
+
+## ⭐ PROJECTS
+
+### 👩‍💻 AVAILABLE PROJECTS
+
+|S.No.|Project Name|Technologies Used | Live App | Link |
+|--------|----|----|----| ---- |
+| 1 | Learning Android App |Kotlin, Xml, Retrofit, SharedPreferences, Fragments, Navigation Graph   | Available on Play store... | [link]([https://github.com/abhisheksuman413/Bhagavad-Gita](https://play.google.com/store/apps/details?id=ajwa.learning.app)) |
+
+<br>
