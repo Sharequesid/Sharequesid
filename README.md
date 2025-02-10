@@ -29,7 +29,7 @@ This Portfolio is under working so please waite for completion moving projects f
 
 ## 👩‍💻 PROJECTS SCREENS
 
-**PROJECT Number 1** 
+**PROJECT 1** 
 <p align="center">
   <img src="https://github.com/Sharequesid/Sharequesid/blob/main/appimages/learning_one.png?raw=true" width="350" title="hover text">
   <img src="https://github.com/Sharequesid/Sharequesid/blob/main/appimages/learning_two.png?raw=true" width="350" alt="accessibility text">
@@ -42,7 +42,8 @@ This Portfolio is under working so please waite for completion moving projects f
 ### 👩‍💻 IMAGE PICKER SAMPLE - JETPACK COMPOSE
  **This App is developed with Jetpack compose UI for picking an image and dispaying using compose lazy column and row attributes.**
  <br>
- Github Link | [link](https://github.com/Sharequesid/PickImageSample) |
+ Github Link [link](https://github.com/Sharequesid/PickImageSample).
+ <br>
  **Screens**
 <p align="center">
   <img src="https://github.com/Sharequesid/PickImageSample/blob/master/images/Screenshot_1739191360.png?raw=true" width="350" title="hover text">
