@@ -45,7 +45,7 @@ This Portfolio is under working so please waite for completion moving projects f
 
 **PROJECT 3** <br>
 <p align="center">
-![Alt text](https://github.com/Sharequesid/Sharequesid/blob/main/appimages/dailyfresh_image2.png?raw=true "Title")
+ <img src="https://github.com/Sharequesid/Sharequesid/blob/main/appimages/dailyfresh_image2.png?raw=true" title="Dailyfresh">
 </p>
 
 <br>
