@@ -23,6 +23,13 @@ This Portfolio is under working so please waite for completion moving projects f
 
 |S.No.|Project Name|Technologies Used | Live App | Link |
 |--------|----|----|----| ---- |
-| 1 | Learning Android App |Kotlin, Xml, Retrofit, SharedPreferences, Fragments, Navigation Graph   | Available on Play store... | [link]([https://github.com/abhisheksuman413/Bhagavad-Gita](https://play.google.com/store/apps/details?id=ajwa.learning.app)) |
+| 1 | Learning Android App |Kotlin, Xml, Retrofit, SharedPreferences, Fragments, Navigation Graph   | Available on Play store... | [link](https://play.google.com/store/apps/details?id=ajwa.learning.app) |
 
 <br>
+
+### 👩‍💻 PROJECTS SCREENS
+
+<p align="center">
+  <img src="https://github.com/Sharequesid/Sharequesid/blob/main/appimages/learning_one.png" width="350" title="hover text">
+  <img src="https://github.com/Sharequesid/Sharequesid/blob/main/appimages/learning_two.png" width="350" alt="accessibility text">
+</p>
