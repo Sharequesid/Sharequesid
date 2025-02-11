@@ -56,6 +56,7 @@ This Portfolio is under working so please waite for completion moving projects f
  **This App is developed with Jetpack compose UI for picking an image and dispaying using compose lazy column and row attributes.**
  <br>
  Github Link [link](https://github.com/Sharequesid/PickImageSample).
+ Medium article link [link](https://medium.com/@sharequesm/multiple-image-picker-with-modify-selected-images-jetpack-compose-0327e0ae8163).
  <br>
  **Screens**
 <p align="center">
