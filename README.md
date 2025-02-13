@@ -5,8 +5,6 @@
 
 Hello my self  ✨ _Shareque siddiqui_ ✨ As as android developer having knowledge of 6+ years in IT industry. But currently i am doing *Freelancing work* 
 
-This Portfolio is under working so please waite for completion moving projects from bitbucket:
-
 - 🔭 I’m currently working on **Freelancing Android app**
 - 🌱 I’m currently learning Jetpack Compose
 - 👯 I’m looking to collaborate on Different Project in future
