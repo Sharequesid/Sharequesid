@@ -16,6 +16,17 @@ This Portfolio is under working so please waite for completion moving projects f
 - 😄 Pronouns: ... Shareque
 - ⚡ Fun fact: ... Working ....
 
+## 👩‍💻 Key Skills
+- *Language*: - Kotlin, Core Java, Android, XML, Jetpack Compose.
+- *Other skills*: - Activity, Services, Fragments Broadcast Receiver, Retrofit, JSON, SOAP, Git, Glide, Picasso, OkHttp, HTTP-Interceptors, etc
+Kotlin- Coroutines, Kotlin Flow, Null Safety
+- *Google API’s*– Push notification, Firebase, Analytics, Crashlytics, Direction, Map, Proguard Mapping file.
+- *Security* – SSL Pinning, Proguard, Dexguard, Root device check, SQL Cipher, Crypto Cipher with shared Preference,Check for app tempared using SHA-Key of APK.
+- *Patterns* - MVC, MVP, MVVM, Builder, Singleton, Adapter, Observer, Factory, Strategy, Dependency.
+- *Jetpack Components*- Data Binding, Live Data, Navigation Graph, Room DB, WorkManager, ViewModel, Permissions, Notifications.
+- *Dependency Injection* – Dagger, Dagger2, Hilt.
+- *Unit Testing* - Junit, Mockito, Espresso.
+- *Database*: - SQL, MySQL, SQLITE,Room DB, Shared Preference.
 
 ## ⭐ PROJECTS
 
