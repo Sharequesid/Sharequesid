@@ -24,6 +24,7 @@ Kotlin- Coroutines, Kotlin Flow, Null Safety.
 - **Patterns** - MVC, MVP, MVVM, Builder, Singleton, Adapter, Observer, Factory, Strategy, Dependency.
 - **Jetpack Components**- Data Binding, Live Data, Navigation Graph, Room DB, WorkManager, ViewModel, Permissions, Notifications.
 - **Dependency Injection** – Dagger, Dagger2, Hilt.
+- **Version Control** - GitHub, BitBucket.
 - **Unit Testing** - Junit, Mockito, Espresso.
 - **Database**: - SQL, MySQL, SQLITE,Room DB, Shared Preference.
 
