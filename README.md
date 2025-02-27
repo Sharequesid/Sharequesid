@@ -17,8 +17,9 @@ Hello my self  ✨ _Shareque siddiqui_ ✨ As as android developer having knowle
 ## 👩‍💻 Key Skills
 - **Language**: - Kotlin, Core Java, Android, XML, Jetpack Compose.
 - **Other skills**: - Activity, Services, Fragments Broadcast Receiver, Retrofit, JSON, SOAP, Git, Glide, Picasso, OkHttp, HTTP-Interceptors, etc
-Kotlin- Coroutines, Kotlin Flow, Null Safety
+Kotlin- Coroutines, Kotlin Flow, Null Safety.
 - **Google API’s**– Push notification, Firebase, Analytics, Crashlytics, Direction, Map, Proguard Mapping file.
+- **Payment Gateway**: - PayUMoney, RazorPay, PhonePe SDK, GooglePay SDK.
 - **Security** – SSL Pinning, Proguard, Dexguard, Root device check, SQL Cipher, Crypto Cipher with shared Preference,Check for app tempared using SHA-Key of APK.
 - **Patterns** - MVC, MVP, MVVM, Builder, Singleton, Adapter, Observer, Factory, Strategy, Dependency.
 - **Jetpack Components**- Data Binding, Live Data, Navigation Graph, Room DB, WorkManager, ViewModel, Permissions, Notifications.
