@@ -83,6 +83,6 @@ Kotlin- Coroutines, Kotlin Flow, Null Safety.
  <br>
  **Screens**
 <p align="center">
-  <img src="https://github.com/Sharequesid/KeyStoreSample/edit/main/images/keystore_sample_screen_2.png?raw=true" width="350" title="hover text">
-  <img src="https://github.com/Sharequesid/KeyStoreSample/edit/main/images/keystore_sample_screen_3.png?raw=true" width="350" alt="accessibility text">
+  <img src="https://github.com/Sharequesid/KeyStoreSample/blob/main/images/keystore_sample_screen_2.png?raw=true" width="350" title="hover text">
+  <img src="https://github.com/Sharequesid/KeyStoreSample/blob/main/images/keystore_sample_screen_3.png?raw=true" width="350" alt="accessibility text">
 </p>
