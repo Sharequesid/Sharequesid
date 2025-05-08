@@ -29,8 +29,14 @@ Kotlin- Coroutines, Kotlin Flow, Null Safety.
 - **Database**: - SQL, MySQL, SQLITE,Room DB, Shared Preference.
 
 ## 👩‍💻 Key Skills Samples
-- 💬 [Camera X App](https://github.com/Sharequesid/CameraXSample)
+# 🔭 Kotlin
+- 💬 CI/CD [Link](https://github.com/Sharequesid/CICDSample)
+- 💬 Camera-X App [Link](https://github.com/Sharequesid/CameraXSample)
+- 💬 KeyStore API App [Link](https://github.com/Sharequesid/KeyStoreSample)
+- 💬 Secure API Key App [Link](https://github.com/Sharequesid/SecureApiKey)
 
+# 🔭 Jetpack Compose
+- 💬 Pick Multiple images from Gallery and display with delete option in jetpack compose [Link](https://github.com/Sharequesid/PickImageSample)
 
 ## ⭐ PROJECTS
 
