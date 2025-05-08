@@ -28,6 +28,10 @@ Kotlin- Coroutines, Kotlin Flow, Null Safety.
 - **Unit Testing** - Junit, Mockito, Espresso.
 - **Database**: - SQL, MySQL, SQLITE,Room DB, Shared Preference.
 
+## 👩‍💻 Key Skills Samples
+- 💬 [Camera X App](https://github.com/Sharequesid/CameraXSample)
+
+
 ## ⭐ PROJECTS
 
 ### 👩‍💻 AVAILABLE PROJECTS
