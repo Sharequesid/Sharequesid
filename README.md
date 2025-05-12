@@ -30,10 +30,10 @@ Kotlin- Coroutines, Kotlin Flow, Null Safety.
 
 ## 👩‍💻 Key Skills Samples
 # 🔭 Kotlin
-- 💬 CI/CD [Link](https://github.com/Sharequesid/CICDSample)
-- 💬 Camera-X App [Link](https://github.com/Sharequesid/CameraXSample)
-- 💬 KeyStore API App [Link](https://github.com/Sharequesid/KeyStoreSample)
-- 💬 Secure API Key App [Link](https://github.com/Sharequesid/SecureApiKey)
+- 💬 CI/CD Sample- Github Actions, Yaml, signed APK, Signed AAB bundle [Link](https://github.com/Sharequesid/CICDSample)
+- 💬 Camera-X App- For capturing Video and Image Using Android Lattest Camera i.e CameraX [Link](https://github.com/Sharequesid/CameraXSample)
+- 💬 KeyStore API App- For storing secured api key for future use and not exposed to other user [Link](https://github.com/Sharequesid/KeyStoreSample)
+- 💬 Secure API Key App- Another way to secure api key using Gradle file [Link](https://github.com/Sharequesid/SecureApiKey)
 
 # 🔭 Jetpack Compose
 - 💬 Pick Multiple images from Gallery and display with delete option in jetpack compose [Link](https://github.com/Sharequesid/PickImageSample)
