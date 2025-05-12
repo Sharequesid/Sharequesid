@@ -26,3 +26,28 @@ Due to security reason i will not upload actual code but check screen shots for 
 <p align="center">
   <img src="https://github.com/Sharequesid/Sharequesid/blob/main/Jixler/images/8myjix.png" width="350" title="start1">
 </p>
+
+- Jix Detail for showing jix detail with no .of likes total comments, more options if you own that jix.
+- Comments on that particular jix
+- More options on that jix i.e Edit and delete if you owner of that jix else not show.
+<p align="center">
+  <img src="https://github.com/Sharequesid/Sharequesid/blob/main/Jixler/images/9jixdetail.png" width="350" title="start1">
+  <img src="https://github.com/Sharequesid/Sharequesid/blob/main/Jixler/images/10comments.png?raw=true" width="350" title="start2">
+  <img src="https://github.com/Sharequesid/Sharequesid/blob/main/Jixler/images/11more.png?raw=true" width="350" title="start3">
+</p>
+
+- Create new jix we can go through home to click create jix.
+1. Select images
+2. Write jix details like name , description etc.
+3. Type and visibility like public. private etc
+4.  drage map cursor to choose position of Jix
+5.  choose jix end and start time it will expire like schedule the jix(Screen2).
+6.  paste other social media link or you can browse to select particular link(Screen3).
+7.  Record audio using start icon click (Screen4)
+
+<p align="center">
+  <img src="https://github.com/Sharequesid/Sharequesid/blob/main/Jixler/images/12createjix.png" width="350" title="start1">
+  <img src="https://github.com/Sharequesid/Sharequesid/blob/main/Jixler/images/15expirejix.png?raw=true" width="350" title="start2">
+  <img src="https://github.com/Sharequesid/Sharequesid/blob/main/Jixler/images/13createlink.png?raw=true" width="350" title="start3">
+  <img src="https://github.com/Sharequesid/Sharequesid/blob/main/Jixler/images/14recordaudio.png?raw=true" width="350" title="start4">
+</p>
