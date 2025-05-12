@@ -47,6 +47,7 @@ Kotlin- Coroutines, Kotlin Flow, Null Safety.
 | 1 | EatDeli App |Kotlin, Xml, Retrofit, SharedPreferences, Fragments, Push Notifications, Glide   | Available on Play store | [link](https://play.google.com/store/search?q=eatdeli&c=apps&hl=en) |
 | 2 | Learning Android App |Kotlin, Xml, Retrofit, SharedPreferences, Fragments, Navigation Graph   | Available on Play store | [link](https://play.google.com/store/apps/details?id=ajwa.learning.app) |
 | 3 | Daily Fresh App |Kotlin, Xml, Retrofit, SharedPreferences, Fragments, Push Notifications, Glide   | Available on Play store | [link](https://play.google.com/store/apps/details?id=ajwa.daily.freshapp) |
+| $ | Jixler App |Kotlin, MVVM, Navigation Graph, Hilt, Retrofit, Google Map, Firebase Crashlytics, Xml, Retrofit, SharedPreferences, Fragments, Push Notifications, Glide   | Removed from Play store | [Github screen link]() |
 
 <br>
 
