@@ -32,7 +32,7 @@ Kotlin- Coroutines, Kotlin Flow, Null Safety.
 # 🔭 Kotlin
 - 💬 **CI/CD Sample-** Github Actions, Yaml, signed APK, Signed AAB bundle [Link](https://github.com/Sharequesid/CICDSample)
 - 💬 **MVI Sample-** this sample app build with MVI architecture with hilt and without hilt [Link](https://github.com/Sharequesid/MVISample)
-- - 💬 **Mockito Testing Sample-** execute mock api testing with the help of MockWebser to send response and its code acording to different test cases [Link](https://github.com/Sharequesid/MockotiSample)
+-  💬 **Mockito Testing Sample-** execute mock api testing with the help of MockWebser to send response and its code acording to different test cases [Link](https://github.com/Sharequesid/MockotiSample)
 - 💬 **Clean Architecture Sample-** sample app using clean architecture with MVVM and Hilt [Link](https://github.com/Sharequesid/CleanMVVMSample)
 - 💬 **Camera-X App-** For capturing Video and Image Using Android Lattest Camera i.e CameraX [Link](https://github.com/Sharequesid/CameraXSample)
 - 💬 **KeyStore API** App- For storing secured api key for future use and not exposed to other user [Link](https://github.com/Sharequesid/KeyStoreSample)
